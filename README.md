@@ -1,6 +1,43 @@
 # dsi-group-project
 
+
+#  There are 5 listed requirements for the README.md:
+
+per (https://git.generalassemb.ly/dsi-911/group-project)
+
+
+
+
+1. #  Problem Statement
+
+	## Scenario / Possible Problem Statement: 
+
+	We are working with the state of Alaska (or some organization within) to promote effective emergency response and prevent accidents via renewed pilot training initiatives. This is based on the problem: Can we infer the biggest contributing factors to more severe aviation accidents in Alaska?
+
+
+1. #  Succinct formulation of the question your analysis seeks to answer.
+	- is this separate from the above?
+
+
+1. #  Table of Contents
+	- which should indicate which notebook or scripts a stakeholder should start with, 
+	- and a link to an executive summary
+
+
+1. #  Data 
+	- A paragraph description of the data you used, 
+	- plus your data acquisition, ingestion, and cleaning steps
+	- does the data dictionary go here? (see below for it, currently)
+
+
+1. #  Software Requirements  
+	- A short description of software requirements (e.g., Pandas, Scikit-learn) required by your analysis.
+
+
+
 ## Data Dictionary
+-------------------------------------------
+
 | Column Name          | Description                             | Details |
 |----------------------|-----------------------------------------|---------|
 | EventId              | Unique Identification for Each Event    | Each event is assigned a unique 14-character alphanumeric code in the database. This code is used to reference all database records. |
@@ -34,3 +71,8 @@
 | BroadPhaseOfFlight   | Phase of Flight                        | The phase of flight in which the event took place. |
 | ReportStatus         | Latest Report Level                    | The furthest level to which a report has been completed. |
 | PublicationDate      | Publication data of the Latest Report Level | The date on which the previous column was published to the web. |
+
+
+
+##### miscellaneous:
+What about listing our names somewhere?
