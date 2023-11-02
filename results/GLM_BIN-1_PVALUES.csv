@@ -1,0 +1,314 @@
+,p_value
+weather_condition_VMC,0.0
+is_accident,0.0
+occurred_near_airpor,0.0
+amateur_built,0.0557
+weather_condition_Unknown,0.058
+event_hour_13,0.0725
+event_hour_12,0.0767
+event_hour_16,0.0789
+event_hour_8,0.0843
+event_hour_18,0.0885
+event_hour_11,0.1085
+model_PA-32-260,0.1174
+model_U206E,0.1365
+event_hour_9,0.1471
+model_150L,0.1502
+event_hour_20,0.1526
+event_month_6,0.1682
+model_140,0.1704
+model_SC7,0.1724
+event_hour_1,0.1875
+event_hour_17,0.189
+event_hour_22,0.1963
+model_DHC 2,0.1993
+model_PA-28-140,0.2035
+event_hour_6,0.2079
+model_PA-18A-150,0.2081
+event_hour_3,0.2108
+event_hour_21,0.2162
+event_hour_19,0.2179
+event_hour_15,0.2224
+model_PA-28-180,0.2316
+make_INTERSTATE,0.2366
+event_hour_7,0.2369
+model_UH-1B,0.237
+model_M-5-235C,0.2376
+event_hour_23,0.2404
+event_hour_14,0.2446
+model_M-7-235,0.2476
+model_DC-3C,0.253
+make_EUROCOPTER FRANCE,0.2547
+model_M-7,0.2575
+event_hour_10,0.2598
+model_PA-18A,0.2624
+scheduled_UNK,0.2821
+make_MCDONNELL DOUGLAS,0.2823
+event_month_3,0.286
+make_ENSTROM,0.2934
+model_J3C-65,0.2938
+model_AS350,0.3065
+model_208B,0.3194
+model_G-21A,0.3222
+latitude,0.3238
+model_DC-6B,0.3358
+model_DHC-6-300,0.3441
+event_month_9,0.3504
+make_BELLANCA,0.3598
+model_R22,0.3684
+event_hour_4,0.3685
+model_P206C,0.3836
+model_PA-28,0.3878
+model_PA-11,0.3883
+model_212,0.3956
+model_7EC,0.4114
+model_PA-22-150,0.4147
+model_150F,0.4226
+model_M-4-210C,0.4233
+event_month_4,0.4391
+make_BELL,0.444
+model_7ECA,0.4496
+make_CHAMPION,0.4523
+make_ROBINSON,0.4623
+model_206L-1,0.4662
+model_108-2,0.4758
+model_PA-32R-301,0.4809
+model_7HC,0.4825
+model_15AC,0.4841
+model_7GCBC,0.4844
+model_402,0.4867
+model_S-1B2,0.4875
+model_8GCBC,0.4911
+model_PA-31-310,0.4925
+make_MOONEY,0.4954
+model_172N,0.4963
+event_hour_2,0.5004
+make_DE HAVILLAND,0.5031
+model_180,0.5067
+longitude,0.5097
+model_180B,0.5124
+model_7GC,0.5165
+model_BEAVER DHC-2,0.5175
+event_month_5,0.521
+model_DHC-3T,0.5334
+model_PA-18-135,0.5336
+event_month_2,0.5354
+make_ARTIC AIRCRAFT CORP.,0.5369
+model_M-6-235,0.5385
+model_PA-32R-300,0.5463
+model_PA-12-150,0.5503
+make_STINSON,0.5526
+model_210,0.5664
+model_170A,0.567
+model_F-19,0.5812
+model_M-5,0.5876
+make_BRITTEN-NORMAN,0.5879
+model_150M,0.5901
+model_U206G,0.5912
+model_PA 18-150,0.5942
+model_214B-1,0.6009
+make_FAIRCHILD,0.6062
+model_BC-12D,0.6114
+event_month_10,0.6162
+make_DOUGLAS,0.6207
+model_PA 18,0.6274
+model_DC-3,0.6298
+model_208,0.6377
+model_500D,0.6401
+model_207A,0.6429
+model_AS-350-B2,0.6458
+make_AIRBUS,0.6582
+model_A185,0.6628
+model_170,0.6651
+model_C-207,0.6703
+model_172P,0.6803
+make_HUGHES,0.6844
+make_EUROCOPTER,0.6858
+model_152,0.6864
+model_A185E,0.6865
+make_AERONCA,0.6885
+make_BEECH,0.6886
+model_206B,0.6889
+model_182B,0.6894
+model_150D,0.6902
+model_PA-18-160,0.6909
+make_DEHAVILLAND,0.6913
+model_PA-20,0.6988
+model_170B,0.7012
+model_177RG,0.7027
+model_BC12-D,0.7032
+model_U206F,0.7033
+make_UNCOMMON MAKE,0.7036
+event_month_11,0.7118
+model_175,0.7211
+model_737-400,0.7222
+model_7GCAA,0.7318
+model_PA-32-300,0.7417
+model_180K,0.7425
+make_LUSCOMBE,0.7486
+model_UNCOMMON MODEL,0.7505
+model_R44,0.7538
+model_G-44,0.7545
+model_150H,0.7562
+model_1900C,0.7572
+model_GLASTAR,0.76
+model_U206C,0.7658
+model_PA-12,0.7676
+make_CESSNA,0.7683
+model_PA32R,0.7711
+model_PA-18-180,0.7718
+make_BOEING,0.7722
+model_206,0.7794
+model_206G,0.7799
+model_PA22,0.7806
+model_M-4,0.7819
+model_F19,0.7895
+model_185F,0.7936
+event_month_12,0.7948
+model_108-3,0.7963
+make_SWEARINGEN,0.7986
+model_180J,0.7987
+model_PA-32,0.799
+model_PA-38-112,0.8
+model_PA-32-301,0.8013
+model_172M,0.8053
+model_180H,0.8066
+make_ROBINSON HELICOPTER,0.8076
+make_PIPER,0.815
+model_369D,0.8195
+model_H 295,0.8265
+model_H-250,0.8265
+model_BEAVER DHC 2,0.8268
+model_207,0.83
+event_hour_5,0.8312
+model_PA18,0.8381
+model_F-28F,0.8388
+model_J5A,0.8398
+model_185E,0.8442
+model_PA 12,0.8519
+make_TAYLORCRAFT,0.8546
+make_MAULE,0.8576
+model_BN-2A,0.8603
+model_PA-31,0.8616
+model_PA-31-T3,0.8625
+make_HELIO,0.8636
+model_180F,0.8712
+make_SIKORSKY,0.8723
+model_U206,0.8774
+model_PA 18A 150,0.8778
+model_M-4-220C,0.8813
+model_PA-28-181,0.882
+model_185A,0.8833
+model_185,0.8847
+model_H-295,0.8867
+event_month_8,0.8868
+model_J-3,0.8881
+model_DHC-2,0.8881
+event_month_7,0.8881
+model_182C,0.889
+model_BEAVER DHC-2 MK.1,0.8906
+model_A-1,0.8925
+model_PA-31-350,0.8939
+model_172,0.8995
+make_GRUMMAN,0.9091
+scheduled_SCHD,0.9169
+make_SHORT BROTHERS,0.9175
+model_DHC-3,0.9197
+model_11AC,0.9219
+model_18,0.9263
+make_AEROSPATIALE,0.9304
+model_TU206,0.9354
+model_172K,0.9491
+model_PA-22,0.9493
+make_AVIAT,0.9511
+model_PA-22-160,0.9542
+model_7GCB,0.9589
+model_PA-16,0.9591
+model_180A,0.9624
+model_PA-18-150,0.9624
+make_EMBRAER,0.9649
+model_T207,0.9659
+model_150,0.9683
+model_7AC,0.979
+model_402B,0.9811
+model_120,0.9851
+model_PA-18,0.9893
+model_8A,0.9896
+model_182,0.9908
+model_A185F,0.9964
+model_PA-14,0.9981
+model_402C,0.9997
+model_M-5-210C,0.9997
+make_HILLER,0.9997
+model_MD-82,0.9997
+model_DHC-6,0.9997
+make_CHRISTEN INDUSTRIES,0.9998
+model_7KCAB,0.9998
+model_108-1,0.9998
+make_CONSOLIDATED AERONAUTICS INC.,0.9998
+model_8E,0.9998
+model_PA-32R,0.9998
+model_A36,0.9998
+make_ROBINSON HELICOPTER COMPANY,0.9998
+model_AVID FLYER,0.9998
+model_BC12D,0.9998
+make_LAKE,0.9998
+model_DHC-2 MK. I(L20A),0.9998
+model_PA-18A 150,0.9998
+model_150G,0.9998
+make_CUB CRAFTERS INC,0.9998
+model_DHC2,0.9998
+model_PA-22-108,0.9998
+model_7DC,0.9998
+model_PA32,0.9998
+model_M5,0.9998
+model_R-22,0.9998
+model_182H,0.9998
+model_M4,0.9998
+make_LOCKHEED,0.9998
+model_FH-1100,0.9998
+model_R44 II,0.9998
+make_ROCKWELL,0.9998
+model_172H,0.9998
+model_PA 20,0.9998
+model_T207A,0.9998
+model_747-400,0.9998
+model_LA-4-200,0.9998
+make_FOUND ACFT CANADA INC,0.9998
+model_180C,0.9998
+model_182P,0.9998
+model_PA31,0.9998
+model_PA 18-135,0.9998
+make_CURTISS-WRIGHT,0.9999
+make_AVIAT AIRCRAFT INC,0.9999
+model_A-1B,0.9999
+model_182A,0.9999
+purpose_of_flight_OWRK,0.9999
+purpose_of_flight_UNK,0.9999
+model_R-44,0.9999
+make_SHORT BROS. & HARLAND,0.9999
+model_M-6,0.9999
+model_TU206A,0.9999
+make_MCDONNELL DOUGLAS HELICOPTER,0.9999
+model_J3,0.9999
+model_H295,0.9999
+model_177,0.9999
+purpose_of_flight_AOBV,0.9999
+purpose_of_flight_BUS,0.9999
+purpose_of_flight_EXEC,0.9999
+model_C-82A,0.9999
+purpose_of_flight_EXLD,0.9999
+purpose_of_flight_FIRF,0.9999
+purpose_of_flight_FLTS,0.9999
+purpose_of_flight_INST,0.9999
+purpose_of_flight_PERS,0.9999
+purpose_of_flight_POSI,0.9999
+purpose_of_flight_PUBF,0.9999
+purpose_of_flight_PUBL,0.9999
+purpose_of_flight_PUBS,0.9999
+purpose_of_flight_PUBU,0.9999
+purpose_of_flight_FERY,0.9999
+const,0.9999
+model_8KCAB,1.0
+make_GATES LEARJET,1.0
+purpose_of_flight_SKYD,1.0
