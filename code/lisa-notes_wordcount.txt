@@ -1,0 +1,41 @@
+
+Out of 5660 rows in the dataset:
+
+words       #mentions
+---------------------
+dark        20
+lighting    17    
+turbulence  38
+weather     135
+rain        852
+pilot       2437
+error       1
+maintenance 62
+
+
+ $wc -l datasets/alaska_single_engine_clean_camel.csv
+    5660 datasets/alaska_single_engine_clean_camel.csv
+
+
+lisapaul@malumeum dsi-group-project $grep dark datasets/alaska_single_engine_clean_camel.csv | wc -l 
+      20
+
+
+
+
+lisapaul@malumeum dsi-group-project $grep lighting datasets/alaska_single_engine_clean_camel.csv | wc -l
+      17
+lisapaul@malumeum dsi-group-project $grep turbulence datasets/alaska_single_engine_clean_camel.csv | wc -l
+      38
+lisapaul@malumeum dsi-group-project $grep weather datasets/alaska_single_engine_clean_camel.csv | wc -l
+     135
+lisapaul@malumeum dsi-group-project $grep rain datasets/alaska_single_engine_clean_camel.csv | wc -l
+     852
+
+lisapaul@malumeum dsi-group-project $grep pilot datasets/alaska_single_engine_clean_camel.csv | wc -l
+    2437
+
+lisapaul@malumeum dsi-group-project $grep error datasets/alaska_single_engine_clean_camel.csv | wc -l
+       1
+lisapaul@malumeum dsi-group-project $grep maintenance datasets/alaska_single_engine_clean_camel.csv | wc -l
+      62
