@@ -1,0 +1,133 @@
+,p_values
+weather_condition_VMC,0.0
+occurred_near_airport,2e-06
+const,0.000146
+city_KETCHIKAN,0.000155
+event_hour_12,0.000289
+event_hour_17,0.001517
+city_SITKA,0.001525
+event_hour_13,0.001569
+event_hour_16,0.001746
+purpose_of_flight_POSI,0.001894
+city_SEWARD,0.002423
+event_hour_11,0.002441
+event_hour_14,0.003058
+event_hour_18,0.003258
+city_JUNEAU,0.003362
+aircraft_family_PIPER PA-22 TRI-PACER,0.003665
+city_KODIAK,0.003825
+event_hour_20,0.003836
+event_hour_7,0.004592
+event_hour_15,0.006641
+event_hour_9,0.006941
+event_hour_8,0.007202
+city_KENAI,0.007721
+aircraft_family_CESSNA 180 SKYWAGON,0.00812
+city_WILLOW,0.00838
+event_hour_10,0.008485
+aircraft_family_PIPER PA-18 SUPER CUB,0.009382
+aircraft_family_CESSNA 185 SKYWAGON,0.014055
+city_CHUGIAK,0.014599
+aircraft_family_CESSNA 172 SKYHAWK,0.021203
+aircraft_family_HELIO COURIER,0.021541
+aircraft_family_PIPER PA-20 PACER,0.023396
+city_NOME,0.023507
+event_hour_19,0.025125
+amateur_built,0.029357
+aircraft_family_CESSNA 170,0.03204
+event_hour_21,0.032288
+aircraft_family_CESSNA 182 SKYLANE,0.034828
+event_hour_22,0.038737
+city_UNCOMMON CITY,0.042921
+city_ILIAMNA,0.044431
+aircraft_family_CHAMPION/ BELLANCA/ AMERICAN CHAMPION SCOUT,0.044704
+city_HOMER,0.045015
+event_hour_6,0.052492
+city_SOLDOTNA,0.055361
+aircraft_family_CESSNA 206 STATIONAIR,0.056719
+city_WASILLA,0.060584
+city_HAINES,0.065776
+aircraft_family_UNCOMMON FAMILY,0.069015
+event_hour_5,0.071559
+city_PORT HEIDEN,0.077544
+purpose_of_flight_OWRK,0.083402
+aircraft_family_PIPER PA-12 SUPER CRUISER,0.097764
+event_hour_4,0.102112
+aircraft_family_CESSNA 207,0.103512
+aircraft_family_TAYLORCRAFT B,0.10435
+aircraft_family_MAULE M-5,0.118073
+city_PORT ALSWORTH,0.123966
+event_month_3,0.132219
+purpose_of_flight_PUBU,0.132294
+event_hour_23,0.151125
+aircraft_family_PIPER PA-32 CHEROKEE SIX,0.159057
+purpose_of_flight_PUBF,0.163946
+purpose_of_flight_PERS,0.175392
+aircraft_family_DE HAVILLAND DHC-2 BEAVER,0.178587
+city_MCGRATH,0.202822
+city_KING SALMON,0.205689
+city_GLENNALLEN,0.210543
+city_ANIAK,0.217862
+purpose_of_flight_INST,0.225066
+aircraft_family_CESSNA 152,0.22577
+event_month_6,0.237094
+city_EGEGIK,0.243422
+event_hour_3,0.269123
+city_BARROW,0.272663
+city_BIG LAKE,0.298697
+city_NAKNEK,0.309695
+aircraft_family_PIPER PA-31 NAVAJO,0.319909
+city_YAKUTAT,0.323336
+scheduled_NSCH,0.327464
+city_MCCARTHY,0.347292
+aircraft_family_CHAMPION/ BELLANCA/ AMERICAN CHAMPION CITABRIA,0.377998
+city_FAIRBANKS,0.378141
+purpose_of_flight_EXEC,0.38281
+city_HEALY,0.384024
+aircraft_family_PIPER PA-28 CHEROKEE,0.384169
+city_NENANA,0.396623
+city_SKWENTNA,0.408289
+city_TOK,0.428881
+city_BELUGA,0.431745
+event_month_7,0.440033
+longitude,0.442385
+purpose_of_flight_PUBS,0.448617
+event_hour_1,0.450006
+scheduled_SCHD,0.451883
+aircraft_family_STINSON 108,0.469732
+city_CANTWELL,0.479097
+aircraft_family_CESSNA 150,0.517994
+purpose_of_flight_FIRF,0.526154
+event_month_4,0.537159
+event_month_11,0.53952
+purpose_of_flight_AOBV,0.556131
+event_month_12,0.558637
+weather_condition_IMC,0.582206
+latitude,0.61398
+event_month_8,0.615117
+event_month_9,0.62015
+city_DILLINGHAM,0.62929
+city_BETTLES,0.640386
+event_month_5,0.669577
+city_DEADHORSE,0.677427
+city_KOTZEBUE,0.698105
+aircraft_family_CESSNA 208 CARAVAN,0.716213
+city_NORTH POLE,0.719949
+purpose_of_flight_FERY,0.725758
+city_NORTHWAY,0.72981
+city_CHICKALOON,0.739389
+city_PALMER,0.777136
+event_hour_2,0.824466
+purpose_of_flight_BUS,0.847201
+purpose_of_flight_FLTS,0.8531
+city_BETHEL,0.867733
+event_month_10,0.905684
+city_CORDOVA,0.916189
+city_DELTA JUNCTION,0.921362
+city_TYONEK,0.944855
+city_TALKEETNA,0.964145
+event_month_2,0.982701
+purpose_of_flight_EXLD,0.999076
+purpose_of_flight_AAPL,0.999496
+purpose_of_flight_SKYD,0.999528
+purpose_of_flight_PUBL,0.999591
