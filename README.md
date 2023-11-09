@@ -1,44 +1,48 @@
-# dsi-group-project
+<h1 align = 'center'>Bush Pilot Safety</h1>
+
+<h4 align = 'center'>AUTHORS</h4>
+<center>Muhammad Hassan, Sophia Joseph, Mike Minikowski, Lisa Paul, Nolan Smurro</center>
+
+ <br><hr><br>
 
 
-#  There are 5 listed requirements for the README.md:
-
-per (https://git.generalassemb.ly/dsi-911/group-project)
 
 
+### Problem Statement
+> Can we identify significant contributing factors to serious aviation accidents among Alaskan Bush Pilots?
+
+### Executive Summary
+> This project seeks to analyze data related to aviation incidents involving single-engine aircraft in Alaska, with a focus on those leading to serious injuries or fatalities. By understanding the primary factors contributing to these incidents, we hope to develop targeted safety initiatives, enhance pilot training programs, and implement effective preventive measures. 
+
+> Our collaboration with the Alaska Airmen’s Association is driven by the goal of promoting effective emergency response, as well as preventing accidents. We aim to make flying safer for Alaskan Bush Pilots and the communities they serve.
 
 
-1. #  Problem Statement
-
-	## Scenario / Possible Problem Statement: 
-
-	We are working with the state of Alaska (or some organization within) to promote effective emergency response and prevent accidents via renewed pilot training initiatives. This is based on the problem: Can we infer the biggest contributing factors to more severe aviation accidents in Alaska?
+### About Alaskan Bush Pilots
+Alaskan Bush Pilots play many critical roles in serving remote communities. The project's objective is to contribute to their safety by identifying and addressing key contributing factors to serious aviation accidents in the region.
 
 
-1. #  Succinct formulation of the question your analysis seeks to answer.
-	- is this separate from the above?
+ <br><hr><br>
+## Table of Contents
+	- this should indicate which notebook or scripts a stakeholder should start with
+		- nolan_cleaning.ipynb
+		- anyone else's EDA
+
+	- this will be the fancy file tree output
 
 
-1. #  Table of Contents
-	- which should indicate which notebook or scripts a stakeholder should start with, 
-	- and a link to an executive summary
-
-
-1. #  Data 
-	- A paragraph description of the data you used, 
-	- plus your data acquisition, ingestion, and cleaning steps
-	- does the data dictionary go here? (see below for it, currently)
-
-
-1. #  Software Requirements  
+## Software Requirements  
 	- A short description of software requirements (e.g., Pandas, Scikit-learn) required by your analysis.
 
 
+##  Data 
+	- A paragraph description of the data you used, 
+	- plus your data acquisition, ingestion, and cleaning steps
 
-## Data Dictionary
+
+### Data Dictionary
 -------------------------------------------
 
-| Column Name          | Description                             | Details |
+| Feature          | Description                             | Details |
 |----------------------|-----------------------------------------|---------|
 | EventId              | Unique Identification for Each Event    | Each event is assigned a unique 14-character alphanumeric code in the database. This code is used to reference all database records. |
 | InvestigationType    | Type of Event                           | Refers to a regulatory definition of the event severity, combining the highest level of injury and aircraft damage. |
@@ -72,7 +76,3 @@ per (https://git.generalassemb.ly/dsi-911/group-project)
 | ReportStatus         | Latest Report Level                    | The furthest level to which a report has been completed. |
 | PublicationDate      | Publication data of the Latest Report Level | The date on which the previous column was published to the web. |
 
-
-
-##### miscellaneous:
-What about listing our names somewhere?
