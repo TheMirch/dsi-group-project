@@ -1,4 +1,4 @@
 feature,coefficient
-event_time_of_day_Afternoon,-0.041066275218812495
-event_time_of_day_Evening,-0.03867275733695405
-event_time_of_day_Morning,0.011501907580049922
+event_time_of_day_Afternoon,-0.03477242410909753
+event_time_of_day_Evening,-0.03444779115536836
+event_time_of_day_Night,0.0862817801096985
