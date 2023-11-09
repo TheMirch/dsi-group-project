@@ -18,29 +18,31 @@
 
 
 ### About Alaskan Bush Pilots
-Alaskan Bush Pilots play many critical roles in serving remote communities. The project's objective is to contribute to their safety by identifying and addressing key contributing factors to serious aviation accidents in the region.
+> Alaskan Bush Pilots play many critical roles in serving remote communities. The project's objective is to contribute to their safety by identifying and addressing key contributing factors to serious aviation accidents in the region.
 
 
  <br><hr><br>
-## Table of Contents
+## File Directory / Table of Contents
 	- this should indicate which notebook or scripts a stakeholder should start with
 		- nolan_cleaning.ipynb
 		- anyone else's EDA
 
 	- this will be the fancy file tree output
-
+		- can we delete the "scratch" directory? Nolan? 
 
 ## Software Requirements  
-	- A short description of software requirements (e.g., Pandas, Scikit-learn) required by your analysis.
+Imports: jupyter notebook, matplotlib, numpy, 
+pandas, pickle, sklearn, statsmodels.api
 
 
 ##  Data 
-	- A paragraph description of the data you used, 
-	- plus your data acquisition, ingestion, and cleaning steps
+	- ### A paragraph description of the data you used, 
+
+	- ???? ### ??? plus your data acquisition, ingestion, and cleaning steps
 
 
 ### Data Dictionary
--------------------------------------------
+<br><hr><br>
 
 | Feature          | Description                             | Details |
 |----------------------|-----------------------------------------|---------|
@@ -75,4 +77,9 @@ Alaskan Bush Pilots play many critical roles in serving remote communities. The 
 | BroadPhaseOfFlight   | Phase of Flight                        | The phase of flight in which the event took place. |
 | ReportStatus         | Latest Report Level                    | The furthest level to which a report has been completed. |
 | PublicationDate      | Publication data of the Latest Report Level | The date on which the previous column was published to the web. |
+
+
+
+<br><hr><br>
+### Conclusions and Recommendations
 
