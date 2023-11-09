@@ -85,10 +85,10 @@ This is an alphabetical list of the repository's directory and file structure.
 
 <br><hr><br>
 ### Conclusions and Recommendations
-> Based on the key insights from our project, we can offer the following key takeaways to improve aviation safety among Alaskan Bush Pilots:
+> Based on the key insights from our project, we can offer the following key recommendations to improve aviation safety among Alaskan Bush Pilots:
 
-- ** Weather Condition Awareness: **  Prioritize flying in Visual Meteorological Conditions (VMC) whenever possible to significantly reduce the risk of fatal injuries. Our findings indicate that flying in VMC conditions can lead to a 43.8% decrease in the odds of fatal injury compared to flying in Instrument Meteorological Conditions (IMC).
+- **Weather Condition Awareness:**  Prioritize flying in Visual Meteorological Conditions (VMC) whenever possible, to significantly reduce the risk of fatal injuries. Our findings indicate that flying in VMC conditions can lead to a 43.8% decrease in the odds of fatal injury compared to flying in Instrument Meteorological Conditions (IMC).
 
-- ** Avoidance of Airport Proximity: **  Exercise caution when flying near airports, especially within a 3-mile radius, as our analysis revealed an 11.1% increase in the likelihood of fatal injuries occurring in such circumstances. Maintaining a safe distance from airports during flights can help mitigate this risk.
+- **Avoidance of Airport Proximity:**  Exercise caution when flying near airports, especially within a 3-mile radius. Our analysis reveal an 11.1% increase in the likelihood of fatal injuries occurring in such circumstances. Maintaining a safe distance from airports during flights can help mitigate this risk.
 
-- ** Time of Day Consideration: ** Be mindful of the time of day when planning flights. Flying at nighttime carries a 9% higher risk of fatal injuries compared to morning flights. Where possible, adjusting flight schedules to minimize nighttime operations could contribute to a safer flying environment.
+- **Time of Day Consideration:** Be mindful of the time of day when planning flights. Flying at nighttime carries a 9% higher risk of fatal injuries compared to morning flights. Where possible, adjusting flight schedules to minimize nighttime operations could contribute to a safer flying environment.
