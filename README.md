@@ -25,8 +25,112 @@
  <br><hr><br>
 ## File Directory / Table of Contents
 This is an alphabetical list of the repository's directory and file structure. 
-> To follow along, start with "code/Nolan_cleaning.ipynb". Then, because our work was parallelized, the next step might be any other Jupyter Notebook files in the code directory.
 
+
+- README.md
+- code
+  - 01_cleaning.ipynb
+  - 02_eda.ipynb
+  - 03_nlp.ipynb
+  - 04_model_glm.ipynb
+  - 05_model_logreg.ipynb
+  - 06_model_logreg.ipynb
+  - 07_model_logreg.ipynb
+- datasets
+  - alaska_single_engine_clean.csv
+  - data_cleaned
+    - alaska_single_engine_clean.csv
+  - data_raw
+    - alaska_single_engine.csv
+- images
+  - Confusion matrix based on NLP.png
+  - Damage_by_injury.png
+  - Screenshot 2023-11-08 134415.png
+  - Screenshot 2023-11-08 140405.png
+  - Sheet 1.png
+  - Sorted p value.png
+  - TSNE Gorg.png
+  - World of ave.png
+  - incidents_by_injury_level.png
+  - incidents_by_season.png
+  - injuries_by_operator.png
+  - injuries_by_purpose.png
+  - injuries_by_tod.png
+  - probable_cause.png
+- pickles
+  - logreg_occurred_near_airport-has_fatal_injury.pkl
+  - logreg_weather_condition-has_fatal_injury.pkl
+- presentation
+  - alaskan_bush_pilot_safety.pdf
+- results
+  - glm_pvalues3_time_of_day_y_as_severe_and_fatal_acc836.csv
+  - logreg_occurred_near_airport-has_fatal_injury_coef.csv
+  - logreg_weather_condition-has_fatal_injury_coef.csv
+- scratch
+  - Moe_file_listing.ipynb
+  - Moe_file_using_alaska_sec.ipynb
+  - Moe_file_using_alaska_secV2.ipynb
+  - Moe_nolan_model_logreg_weather_condition-has_fatal_injury.ipynb
+  - Moe_streamlit.py
+  - Use for Viz
+    - alaska_single_engine_clean.csv
+  - alaska_single_engine_clean_camel.csv
+  - aviation_data.csv
+  - example-filetree.txt
+  - feature_importances.csv
+  - glm_pvalues1_initialfeatureset_y_as_severe_and_fatal_acc835.csv
+  - glm_pvalues2_city_and_aircraft_family_y_as_severe_and_fatal_acc838.csv
+  - glm_pvalues4_am_pm_y_as_severe_and_fatal_acc838.csv
+  - logreg_coef
+    - nolan_logreg_aircraft_family-has_fatal_injury_coef.csv
+    - nolan_logreg_amateur_built-has_fatal_injury_coef.csv
+    - nolan_logreg_city-has_fatal_injury_coef.csv
+    - nolan_logreg_event_am_pm-has_fatal_injury_coef.csv
+    - nolan_logreg_event_hour-has_fatal_injury_coef.csv
+    - nolan_logreg_event_season-has_injury_coef.csv
+    - nolan_logreg_event_time_of_day-has_fatal_injury_coef.csv
+    - nolan_logreg_occurred_near_airport-has_aircraft_damage_coef.csv
+    - nolan_logreg_occurred_near_airport-has_fatal_injury_coef.csv
+    - nolan_logreg_occurred_near_airport-has_injury_coef.csv
+    - nolan_logreg_purpose_of_flight-has_fatal_injury_coef.csv
+    - nolan_logreg_weather_condition-has_aircraft_damage_coef.csv
+    - nolan_logreg_weather_condition-has_fatal_injury_coef.csv
+    - nolan_logreg_weather_condition-has_injury_coef.csv
+  - mike_atb1.csv
+  - mike_atb2.csv
+  - mike_eda.ipynb
+  - nolan_cleaning_comma_exploder.ipynb
+  - nolan_eda.ipynb
+  - nolan_model.ipynb
+  - nolan_model_logreg_aircraft_family-has_fatal_injury.ipynb
+  - nolan_model_logreg_amateur_built-has_fatal_injury.ipynb
+  - nolan_model_logreg_city-has_fatal_injury.ipynb
+  - nolan_model_logreg_event_am_pm-has_fatal_injury.ipynb
+  - nolan_model_logreg_event_hour-has_fatal_injury.ipynb
+  - nolan_model_logreg_occurred_near_airport-has_aircraft_damage.ipynb
+  - nolan_model_logreg_occurred_near_airport-has_injury.ipynb
+  - nolan_model_logreg_purpose_of_flight-has_fatal_injury.ipynb
+  - nolan_model_logreg_weather_condition-has_aircraft_damage.ipynb
+  - nolan_model_logreg_weather_condition-has_injury.ipynb
+  - pickles
+    - mike_logreg.pkl
+    - nolan_logreg_aircraft_family-has_fatal_injury.pkl
+    - nolan_logreg_amateur_built-has_fatal_injury.pkl
+    - nolan_logreg_city-has_fatal_injury.pkl
+    - nolan_logreg_event_am_pm-has_fatal_injury.pkl
+    - nolan_logreg_event_hour-has_fatal_injury.pkl
+    - nolan_logreg_event_time_of_day-has_fatal_injury.pkl
+    - nolan_logreg_occurred_near_airport-has_aircraft_damage.pkl
+    - nolan_logreg_occurred_near_airport-has_fatal_injury.pkl
+    - nolan_logreg_occurred_near_airport-has_injury.pkl
+    - nolan_logreg_purpose_of_flight-has_fatal_injury.pkl
+    - nolan_logreg_weather_condition-has_aircraft_damage.pkl
+    - nolan_logreg_weather_condition-has_fatal_injury.pkl
+    - nolan_logreg_weather_condition-has_injury.pkl
+  - probable_cause.png
+  - sophia_eda.ipynb
+  - sophia_glm.ipynb
+```
 
 
 ## Software Requirements  
