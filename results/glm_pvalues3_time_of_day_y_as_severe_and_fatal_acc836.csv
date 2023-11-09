@@ -1,0 +1,166 @@
+,p_values
+weather_condition_VMC,0.0
+occurred_near_airport,1e-06
+event_time_of_day_Night,0.0001
+purpose_of_flight_POSI,0.002188
+const,0.023793
+aircraft_family_PIPER PA-22 TRI-PACER,0.02681
+city_KING SALMON,0.037109
+aircraft_family_PIPER PA-20 PACER,0.052539
+aircraft_family_CESSNA 140,0.06173
+purpose_of_flight_OWRK,0.074893
+aircraft_family_MAULE M-4,0.076749
+aircraft_family_HELIO COURIER,0.079046
+city_HEALY,0.086038
+city_EGEGIK,0.08615
+city_FAIRBANKS,0.089019
+city_NAKNEK,0.089146
+amateur_built,0.099114
+aircraft_family_CESSNA 180 SKYWAGON,0.101104
+aircraft_family_PIPER PA-18 SUPER CUB,0.112436
+event_month_3,0.11513
+purpose_of_flight_PUBF,0.116744
+city_TOK,0.118366
+aircraft_family_CESSNA 172 SKYHAWK,0.121967
+aircraft_family_CHAMPION/ BELLANCA/ AMERICAN CHAMPION SCOUT,0.12248
+aircraft_family_CESSNA 185 SKYWAGON,0.130578
+city_NENANA,0.137473
+purpose_of_flight_PERS,0.147751
+city_TALKEETNA,0.153875
+purpose_of_flight_PUBU,0.157479
+city_ANCHORAGE,0.157747
+city_DEADHORSE,0.16208
+city_BELUGA,0.162144
+city_PALMER,0.16629
+city_IGIUGIG,0.172493
+city_CORDOVA,0.173812
+aircraft_family_CESSNA 182 SKYLANE,0.180731
+aircraft_family_CESSNA 170,0.1808
+city_NORTHWAY,0.191704
+city_TOGIAK,0.194946
+city_PILOT POINT,0.195143
+city_BETHEL,0.196704
+purpose_of_flight_INST,0.199741
+city_DELTA JUNCTION,0.205242
+event_month_6,0.216604
+aircraft_family_TAYLORCRAFT B,0.219484
+aircraft_family_PIPER J-3 CUB,0.228256
+aircraft_family_AERONCA 7AC CHAMPION,0.233709
+aircraft_family_CESSNA 206 STATIONAIR,0.246113
+aircraft_family_MAULE M-5,0.249361
+city_UNCOMMON CITY,0.253669
+city_NIKISKI,0.258708
+event_time_of_day_Morning,0.261742
+city_TYONEK,0.273089
+city_QUINHAGAK,0.275901
+aircraft_family_BEECHCRAFT 1900,0.280186
+city_KOTZEBUE,0.286049
+aircraft_family_DOUGLAS DC-6,0.295913
+city_SPARREVOHN,0.304687
+aircraft_family_PIPER PA-12 SUPER CRUISER,0.316346
+city_SKWENTNA,0.318213
+city_NIKOLAI,0.322719
+city_DILLINGHAM,0.330989
+scheduled_NSCH,0.332847
+city_KASILOF,0.335793
+aircraft_family_GRUMMAN G-44 WIDGEON,0.33749
+city_BETTLES,0.34321
+city_GIRDWOOD,0.352706
+city_PAXSON,0.353989
+aircraft_family_CESSNA 207,0.358447
+purpose_of_flight_EXEC,0.359208
+aircraft_family_PIPER PA-11 CUB SPECIAL,0.363609
+aircraft_family_CESSNA 152,0.369115
+city_NORTH POLE,0.371305
+aircraft_family_UNCOMMON FAMILY,0.376557
+city_VALDEZ,0.377731
+city_ARCTIC VILLAGE,0.381502
+city_CHICKALOON,0.394024
+city_SITKA,0.404181
+city_BIG LAKE,0.405038
+city_STERLING,0.414065
+purpose_of_flight_PUBS,0.423577
+aircraft_family_DE HAVILLAND DHC-2 BEAVER,0.43372
+event_time_of_day_Evening,0.435859
+aircraft_family_DE HAVILLAND DHC-6 TWIN OTTER,0.437621
+aircraft_family_PIPER PA-32 CHEROKEE SIX,0.438405
+event_month_7,0.442268
+purpose_of_flight_FIRF,0.444518
+aircraft_family_CESSNA 402,0.446057
+aircraft_family_HUGHES 369D,0.450061
+city_CANTWELL,0.454466
+aircraft_family_PIPER PA-16 CLIPPER,0.4569
+city_WRANGELL,0.46356
+city_MCGRATH,0.471012
+city_HOPE,0.47263
+aircraft_family_PIPER PA-28 CHEROKEE,0.47748
+city_YAKUTAT,0.484877
+aircraft_family_PIPER PA-14 FAMILY CRUISER,0.488224
+scheduled_SCHD,0.496699
+event_month_11,0.496961
+city_PORT ALSWORTH,0.508415
+aircraft_family_DOUGLAS DC-3,0.508517
+city_GUSTAVUS,0.513483
+purpose_of_flight_FERY,0.525224
+city_WASILLA,0.530627
+city_CHITINA,0.542193
+city_BARROW,0.553625
+event_month_4,0.558375
+city_NUIQSUT,0.559945
+weather_condition_IMC,0.564196
+aircraft_family_PIPER PA-31 NAVAJO,0.566533
+event_month_12,0.579858
+aircraft_family_CHAMPION/ BELLANCA/ AMERICAN CHAMPION CITABRIA,0.586675
+city_ILIAMNA,0.590531
+longitude,0.594413
+city_ANIAK,0.599004
+city_MCCARTHY,0.60009
+aircraft_family_STINSON 108,0.612825
+aircraft_family_TAYLORCRAFT F-19 SPORTSMAN,0.617231
+event_month_9,0.625593
+city_GLENNALLEN,0.648986
+event_month_8,0.655355
+purpose_of_flight_AOBV,0.660613
+event_month_5,0.661706
+city_SLEETMUTE,0.697723
+city_KENAI,0.712041
+city_SEWARD,0.716927
+purpose_of_flight_FLTS,0.723967
+city_SOLDOTNA,0.72765
+aircraft_family_DE HAVILLAND DHC-3 OTTER,0.734434
+aircraft_family_CESSNA 177 CARDINAL,0.740936
+aircraft_family_MAULE M-7,0.746383
+city_SELDOVIA,0.752799
+aircraft_family_LUSCOMBE 8,0.756591
+aircraft_family_CESSNA 150,0.779639
+city_PORT HEIDEN,0.788977
+city_GULKANA,0.806017
+city_NOME,0.814338
+city_JUNEAU,0.821152
+city_HOMER,0.824307
+latitude,0.835128
+aircraft_family_MAULE M-6,0.836127
+city_KETCHIKAN,0.839901
+city_TANANA,0.844231
+city_PETERSBURG,0.845267
+city_NONDALTON,0.846584
+city_COLDFOOT,0.866617
+purpose_of_flight_BUS,0.86897
+city_CHUGIAK,0.877185
+aircraft_family_BELL 206,0.895617
+aircraft_family_CESSNA 175 SKYLARK,0.898553
+city_HAINES,0.903857
+event_month_10,0.911595
+aircraft_family_CESSNA 208 CARAVAN,0.92277
+city_WHITTIER,0.925108
+city_COLD BAY,0.925529
+city_KODIAK,0.951573
+event_month_2,0.967
+city_WILLOW,0.985025
+city_GALENA,0.999428
+aircraft_family_PIPER J-5 CUB CRUISER,0.999433
+aircraft_family_ROBINSON HELICOPTER COMPANY R44 II,0.999555
+purpose_of_flight_EXLD,0.999603
+purpose_of_flight_AAPL,0.9998
+purpose_of_flight_PUBL,0.999848
+purpose_of_flight_SKYD,0.999854
