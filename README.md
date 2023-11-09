@@ -14,7 +14,7 @@
 ### Executive Summary
 > This project seeks to analyze data related to aviation incidents involving single-engine aircraft in Alaska, with a focus on those leading to serious injuries or fatalities. By understanding the primary factors contributing to these incidents, we hope to develop targeted safety initiatives, enhance pilot training programs, and implement effective preventive measures. 
 
-> Our collaboration with the Alaska Airmen’s Association is rooted in the goal of promoting effective emergency response and preventing accidents. The Alaska Airmen’s Association, a nonprofit established in 1951, is dedicated to promoting general aviation, enhancing safety, and supporting initiatives that benefit pilots. Our joint efforts aim to make flying safer for Alaskan Bush Pilots and the communities they serve.
+> Our collaboration with the Alaska Airmen’s Association (AAA) is rooted in the goal of promoting effective emergency response and preventing accidents. The AAA, a nonprofit established in 1951, is dedicated to promoting general aviation, enhancing safety, and supporting initiatives that benefit pilots. Our joint efforts aim to make flying safer for Alaskan Bush Pilots and the communities they serve.
 
 
 ### About Alaskan Bush Pilots
@@ -80,10 +80,10 @@ This is an alphabetical list of the repository's directory and file structure.
 
 <br><hr><br>
 ### Conclusions and Recommendations
-> Based on the key insights from our project, we can offer the following key recommendations to improve aviation safety among Alaskan Bush Pilots:
+> Based on the key insights from our project, we can offer the following key recommendations to to the AAA, to address a spectrum of factors, ultimately improving aviation safety among Alaskan Bush Pilots:
 
-> **Weather Condition Awareness:**  Prioritize flying in Visual Meteorological Conditions (VMC) whenever possible, to significantly reduce the risk of fatal injuries. Our findings indicate that flying in VMC conditions can lead to a 43.8% decrease in the odds of fatal injury compared to flying in Instrument Meteorological Conditions (IMC).
+> **Weather Condition Awareness:**  Prioritize flying in Visual Meteorological Conditions (VMC) whenever possible, to significantly reduce the risk of fatal injuries. Our findings indicate that flying in VMC conditions can lead to a 43.8% decrease in the odds of fatal injury compared to flying in Instrument Meteorological Conditions (IMC). Additionally, we suggest the AAA strongly encourages pilots to get and maintain their instrument ratings, and advocates for training and further resources on flying in IMC conditions.
 
-> **Avoidance of Airport Proximity:**  Exercise caution when flying near airports, especially within a 3-mile radius. Our analysis reveal an 11.1% increase in the likelihood of fatal injuries occurring in such circumstances. Maintaining a safe distance from airports during flights can help mitigate this risk.
+> **Avoidance of Airport Proximity:**  Exercise caution when flying near airports, especially within a 3-mile radius. Our analysis reveals an 11.1% increase in the likelihood of fatal injuries occurring in such circumstances. Maintaining a safe distance from airports during flights can help mitigate this risk. We also advocate for improvements in air traffic control procedures for IMC conditions.
 
-> **Time of Day Consideration:** Be mindful of the time of day when planning flights. Flying at nighttime carries a 9% higher risk of fatal injuries compared to morning flights. Where possible, adjusting flight schedules to minimize nighttime operations could contribute to a safer flying environment.
+> **Time of Day Consideration:** Be mindful of the time of day when planning flights. Flying at nighttime carries a 9% higher risk of fatal injuries compared to morning flights. Where possible, adjusting flight schedules to minimize nighttime operations could contribute to a safer flying environment. Additionally, the AAA can encourage members to get and maintain their night flying proficiency, recommend training and resources on night flying safety, and promote the use of night vision goggles (NVGs) and other night flying equipment.
