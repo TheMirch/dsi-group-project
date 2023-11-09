@@ -39,12 +39,6 @@ This is an alphabetical list of the repository's directory and file structure.
 - Statsmodels.api
 
 
-##  Data 
-	- ### A paragraph description of the data you used, 
-
-	- ???? ### ??? plus your data acquisition, ingestion, and cleaning steps
-
-
 ### Data Dictionary
 <br><hr><br>
 
