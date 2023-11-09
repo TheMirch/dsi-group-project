@@ -8,17 +8,17 @@
 
 
 
-### Problem Statement
-> Can we identify significant contributing factors to serious aviation accidents among Alaskan Bush Pilots?
+## Problem Statement
+> Can statistically significant contributing factors to serious aviation accidents among Alaskan Bush Pilots be identified?
 
-### Executive Summary
-> This project seeks to analyze data related to aviation incidents involving single-engine aircraft in Alaska, with a focus on those leading to serious injuries or fatalities. By understanding the primary factors contributing to these incidents, we hope to develop targeted safety initiatives, enhance pilot training programs, and implement effective preventive measures. 
+## Executive Summary
+> This project seeks to analyze data related to aviation incidents involving single-engine aircraft in Alaska, with a focus on those leading to  fatalities. By understanding the primary factors contributing to these incidents, we hope to be able to contribute to recommendations for safety initiatives to further protect Alaskan aviators in the general aviation community.
 
-> Our collaboration with the Alaska Airmen’s Association (AAA) is rooted in the goal of promoting effective emergency response and preventing accidents. The AAA, a nonprofit established in 1951, is dedicated to promoting general aviation, enhancing safety, and supporting initiatives that benefit pilots. Our joint efforts aim to make flying safer for Alaskan Bush Pilots and the communities they serve.
+> Our work for the Alaska Airmen’s Association (AAA) is rooted in the goal of promoting effective emergency response and preventing fatal accidents. The AAA, a nonprofit established in 1951, is dedicated to promoting general aviation, enhancing safety, and supporting initiatives that benefit pilots. Our efforts aim to support their mission of advocating for access and safety infrastructure across the state. We seek to provide the AAA with our findings to support their advocation efforts in the upcoming 2024 calendar year.
 
 
-### About Alaskan Bush Pilots
-> Alaskan Bush Pilots are essential contributors: demonstrating resilience and expertise while navigating the vast and rugged landscapes of Alaska. Often piloting single-engine light aircraft, these aviators must handle unpredictable weather conditions and challenging landing terrains. Their missions extend beyond conventional flight: they serve as the primary or only means of transportation for delivery and essential services to isolated communities. Additionally, Alaskan Bush Pilots play a vital role in search and rescue operations. 
+## About Alaskan Bush Pilots
+> Alaskan Bush Pilots are integral in communites throughout Alaska, demonstrating resilience and expertise while navigating the vast and rugged landscapes of Alaska. Often piloting single-engine light aircraft, these aviators must handle unpredictable weather conditions and challenging landing terrains. Their missions extend beyond conventional flight. They serve as the primary or only means of transportation for delivery and essential services to isolated communities. Additionally, Alaskan Bush Pilots play a vital role in search and rescue operations. 
 
 
 
@@ -26,36 +26,22 @@
 ## File Directory / Table of Contents
 This is an alphabetical list of the repository's directory and file structure. 
 
-
+```
 - README.md
 - code
   - 01_cleaning.ipynb
   - 02_eda.ipynb
   - 03_nlp.ipynb
   - 04_model_glm.ipynb
-  - 05_model_logreg.ipynb
-  - 06_model_logreg.ipynb
-  - 07_model_logreg.ipynb
+  - 05_model_logreg_event_time_of_day.ipynb
+  - 06_model_logreg_occurred_near_airport.ipynb
+  - 07_model_logreg_event_time_of_day.ipynb
 - datasets
-  - alaska_single_engine_clean.csv
   - data_cleaned
     - alaska_single_engine_clean.csv
   - data_raw
     - alaska_single_engine.csv
 - images
-  - Confusion matrix based on NLP.png
-  - Damage_by_injury.png
-  - Screenshot 2023-11-08 134415.png
-  - Screenshot 2023-11-08 140405.png
-  - Sheet 1.png
-  - Sorted p value.png
-  - TSNE Gorg.png
-  - World of ave.png
-  - incidents_by_injury_level.png
-  - incidents_by_season.png
-  - injuries_by_operator.png
-  - injuries_by_purpose.png
-  - injuries_by_tod.png
   - probable_cause.png
 - pickles
   - logreg_occurred_near_airport-has_fatal_injury.pkl
@@ -63,77 +49,14 @@ This is an alphabetical list of the repository's directory and file structure.
 - presentation
   - alaskan_bush_pilot_safety.pdf
 - results
-  - glm_pvalues3_time_of_day_y_as_severe_and_fatal_acc836.csv
+  - glm_pvalues.csv
   - logreg_occurred_near_airport-has_fatal_injury_coef.csv
   - logreg_weather_condition-has_fatal_injury_coef.csv
-- scratch
-  - Moe_file_listing.ipynb
-  - Moe_file_using_alaska_sec.ipynb
-  - Moe_file_using_alaska_secV2.ipynb
-  - Moe_nolan_model_logreg_weather_condition-has_fatal_injury.ipynb
-  - Moe_streamlit.py
-  - Use for Viz
-    - alaska_single_engine_clean.csv
-  - alaska_single_engine_clean_camel.csv
-  - aviation_data.csv
-  - example-filetree.txt
-  - feature_importances.csv
-  - glm_pvalues1_initialfeatureset_y_as_severe_and_fatal_acc835.csv
-  - glm_pvalues2_city_and_aircraft_family_y_as_severe_and_fatal_acc838.csv
-  - glm_pvalues4_am_pm_y_as_severe_and_fatal_acc838.csv
-  - logreg_coef
-    - nolan_logreg_aircraft_family-has_fatal_injury_coef.csv
-    - nolan_logreg_amateur_built-has_fatal_injury_coef.csv
-    - nolan_logreg_city-has_fatal_injury_coef.csv
-    - nolan_logreg_event_am_pm-has_fatal_injury_coef.csv
-    - nolan_logreg_event_hour-has_fatal_injury_coef.csv
-    - nolan_logreg_event_season-has_injury_coef.csv
-    - nolan_logreg_event_time_of_day-has_fatal_injury_coef.csv
-    - nolan_logreg_occurred_near_airport-has_aircraft_damage_coef.csv
-    - nolan_logreg_occurred_near_airport-has_fatal_injury_coef.csv
-    - nolan_logreg_occurred_near_airport-has_injury_coef.csv
-    - nolan_logreg_purpose_of_flight-has_fatal_injury_coef.csv
-    - nolan_logreg_weather_condition-has_aircraft_damage_coef.csv
-    - nolan_logreg_weather_condition-has_fatal_injury_coef.csv
-    - nolan_logreg_weather_condition-has_injury_coef.csv
-  - mike_atb1.csv
-  - mike_atb2.csv
-  - mike_eda.ipynb
-  - nolan_cleaning_comma_exploder.ipynb
-  - nolan_eda.ipynb
-  - nolan_model.ipynb
-  - nolan_model_logreg_aircraft_family-has_fatal_injury.ipynb
-  - nolan_model_logreg_amateur_built-has_fatal_injury.ipynb
-  - nolan_model_logreg_city-has_fatal_injury.ipynb
-  - nolan_model_logreg_event_am_pm-has_fatal_injury.ipynb
-  - nolan_model_logreg_event_hour-has_fatal_injury.ipynb
-  - nolan_model_logreg_occurred_near_airport-has_aircraft_damage.ipynb
-  - nolan_model_logreg_occurred_near_airport-has_injury.ipynb
-  - nolan_model_logreg_purpose_of_flight-has_fatal_injury.ipynb
-  - nolan_model_logreg_weather_condition-has_aircraft_damage.ipynb
-  - nolan_model_logreg_weather_condition-has_injury.ipynb
-  - pickles
-    - mike_logreg.pkl
-    - nolan_logreg_aircraft_family-has_fatal_injury.pkl
-    - nolan_logreg_amateur_built-has_fatal_injury.pkl
-    - nolan_logreg_city-has_fatal_injury.pkl
-    - nolan_logreg_event_am_pm-has_fatal_injury.pkl
-    - nolan_logreg_event_hour-has_fatal_injury.pkl
-    - nolan_logreg_event_time_of_day-has_fatal_injury.pkl
-    - nolan_logreg_occurred_near_airport-has_aircraft_damage.pkl
-    - nolan_logreg_occurred_near_airport-has_fatal_injury.pkl
-    - nolan_logreg_occurred_near_airport-has_injury.pkl
-    - nolan_logreg_purpose_of_flight-has_fatal_injury.pkl
-    - nolan_logreg_weather_condition-has_aircraft_damage.pkl
-    - nolan_logreg_weather_condition-has_fatal_injury.pkl
-    - nolan_logreg_weather_condition-has_injury.pkl
-  - probable_cause.png
-  - sophia_eda.ipynb
-  - sophia_glm.ipynb
 ```
 
 
-## Software Requirements  
+## Software Requirements 
+- GeoPandas
 - Jupyter Notebook
 - Matplotlib.pyplot
 - NumPy
@@ -143,7 +66,7 @@ This is an alphabetical list of the repository's directory and file structure.
 - Statsmodels.api
 
 
-### Data Dictionary
+## Data Dictionary
 <br><hr><br>
 
 | Feature          | Description                             | Details |
@@ -183,14 +106,50 @@ This is an alphabetical list of the repository's directory and file structure.
 
 
 <br><hr><br>
-### Conclusions and Recommendations
-> Based on the key insights from our project, we can offer the following key recommendations to to the AAA, to address a spectrum of factors, ultimately improving aviation safety among Alaskan Bush Pilots:
+## Conclusions and Recommendations
+Based on the key insights from our project, we can offer the following recommendations to the Alaska Airmen's Association, to address a spectrum of factors, ultimately improving aviation safety among Alaskan Bush Pilots:
 
-> **Weather Condition Awareness:**  Prioritize flying in Visual Meteorological Conditions (VMC) whenever possible, to significantly reduce the risk of fatal injuries. Our findings indicate that flying in VMC conditions can lead to a 43.8% decrease in the odds of fatal injury compared to flying in Instrument Meteorological Conditions (IMC). Additionally, we suggest the AAA strongly encourages pilots to get and maintain their instrument ratings, and advocates for training and further resources on flying in IMC conditions. We also recommend promoting the use of weather forecasting and flight planning tools to improve weather condition awareness. 
+### Weather Condition/ Visibility
+> **Findings:**  
+Our findings indicate that the effect of VMC conditions can lead to a 43.8% decrease in the odds of fatal injury in accidents compared to Instrument Meteorological Conditions (IMC) all else held equal.
 
-> **Avoidance of Airport Proximity:**  Exercise caution when flying near airports, especially within a 3-mile radius. Our analysis reveals an 11.1% increase in the likelihood of fatal injuries occurring in such circumstances. Maintaining a safe distance from airports during flights can help mitigate this risk. We also advocate for improvements in air traffic control procedures for IMC conditions. Additionally, we recommend advocating for the utilization of ground proximity warning systems (GPWS), improvements in airport signage and lighting, and collaborative work with airport authorities to develop safety procedures for low-altitude operations. 
+> **Recommendations:** 
+> - Encourage members to seek and maintain their instrument
+ratings.
+> - Promote workshops and further resources related to
+operating in IMC conditions.
+> - Promote the use of weather forecasting and flight planning
+tools.
+> - Advocate for improvements in air traffic control procedures.
 
-> **Time of Day Consideration:** Be mindful of the time of day when planning flights. Flying at nighttime carries a 9% higher risk of fatal injuries compared to morning flights. Where possible, adjusting flight schedules to minimize nighttime operations could contribute to a safer flying environment. Additionally, the AAA can encourage members to get and maintain their night flying proficiency, recommend training and resources on night flying safety, and promote the use of night vision goggles (NVGs) and other night flying equipment.
+### Airport Proximity
+> **Findings:**  
+Our findings indicate that the effect of accidents occuring at or within 3 miles of an airport leads to an increase in odds of fatal injury by 11.1%.
 
+> **Recommendations:** 
+> - Promote the use of ground proximity warning systems
+(GPWS).
+> - Advocate for improvements to airport infrastructure and
+runway conditions.
+> - Work with airport authorities to develop and implement safety
+procedures for low-altitude operations.
 
-> **Other Safety Measures:** Hosting workshops or seminars on fatal crash prevention and creating educational materials on fatal crash risk factors will further contribute to fostering a safer flying environment for Alaskan Bush Pilots and the communities they serve.
+### Time of Day
+> **Findings:**  
+Our findings indicate that the effect of flying at night contributes to a 9.0% increase in fatal injury in accidents compared to flying in the morning, all else held equal.
+
+> **Recommendations:** 
+> - Promote workshops and resources on night flying safety.
+> - Promote the use of night vision goggles (NVGs) and other
+night flying equipment and training where applicable.
+
+### General Recommendations:
+> - Host workshops or seminars on fatal crash prevention.
+> - Develop and distribute educational materials on fatal crash
+risk factors.
+
+<br><hr><br>
+## Sources
+- [NTSB Aviation Investigation Database](https://www.ntsb.gov/Pages/AviationQueryV2.aspx)
+- [Alaska Airmen's Association](https://alaskaairmen.org/about/)
+- [The lifeline of flying: the pilots connecting remote communities in Alaska - The Guardian](https://www.theguardian.com/artanddesign/2023/may/22/its-almost-spiritual-the-female-pilots-connecting-remote-alaska#:~:text=Today%2C%20flying%20is%20part%20of,else%20in%20the%20United%20States.&text=A%20group%20of%20pilots%20fly,River%20Valley%20near%20Palmer%2C%20Alaska.)
