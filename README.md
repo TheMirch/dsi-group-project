@@ -14,11 +14,12 @@
 ### Executive Summary
 > This project seeks to analyze data related to aviation incidents involving single-engine aircraft in Alaska, with a focus on those leading to serious injuries or fatalities. By understanding the primary factors contributing to these incidents, we hope to develop targeted safety initiatives, enhance pilot training programs, and implement effective preventive measures. 
 
-> Our collaboration with the Alaska Airmen’s Association is driven by the goal of promoting effective emergency response, as well as preventing accidents. We aim to make flying safer for Alaskan Bush Pilots and the communities they serve.
+> Our collaboration with the Alaska Airmen’s Association is rooted in the goal of promoting effective emergency response and preventing accidents. The Alaska Airmen’s Association, a nonprofit established in 1951, is dedicated to promoting general aviation, enhancing safety, and supporting initiatives that benefit pilots. Our joint efforts aim to make flying safer for Alaskan Bush Pilots and the communities they serve.
 
 
 ### About Alaskan Bush Pilots
-> Alaskan Bush Pilots play many critical roles in serving remote communities. The project's objective is to contribute to their safety by identifying and addressing key contributing factors to serious aviation accidents in the region.
+> Alaskan Bush Pilots are essential contributors: demonstrating resilience and expertise while navigating the vast and rugged landscapes of Alaska. Often piloting single-engine light aircraft, these aviators must handle unpredictable weather conditions and challenging landing terrains. Their missions extend beyond conventional flight: they serve as the primary or only means of transportation for delivery and essential services to isolated communities. Additionally, Alaskan Bush Pilots play a vital role in search and rescue operations. 
+
 
 
  <br><hr><br>
