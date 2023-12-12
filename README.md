@@ -4,9 +4,7 @@
 <center>Muhammad Hassan, Sophia Joseph, Mike Minikowski, Lisa Paul, Nolan Smurro</center>
 
  <br><hr><br>
-
-
-
+*Note: References to the Alaska Airmen's Association made throughout this project are fictional and are for narrative purposes only. This narrative is used to contextualize the methodologies presented. The project's contributors have no affiliation with the Alaska Airmen's Association, and this work was not submitted to the Alaska Airmen's Association in any capacity.*
 
 ## Problem Statement
 > Can statistically significant contributing factors to serious aviation accidents among Alaskan Bush Pilots be identified?
